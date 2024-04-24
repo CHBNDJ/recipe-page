@@ -8,7 +8,13 @@ body,html {
     background-color: hsl(30, 54%, 90%);
     width: 1589px;
     height: 2247px;
-   
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 736px;
+    height: 1708px;
 }
 
 .card--container {
@@ -20,10 +26,6 @@ body,html {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    position: absolute;
-    left: 536px;
-    top: 513px;
-    
 }
 
 .card--picture {
