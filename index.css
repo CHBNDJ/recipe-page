@@ -1,5 +1,8 @@
+
 body,html {
     background-color: hsl(30, 54%, 90%);
+    width: 1589px;
+    height: 2247px;
    
 }
 
@@ -7,15 +10,14 @@ body,html {
     background-color: white;
     border-radius: 24px;
     width: 736px;
-    height: 1708px;
     padding: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     position: absolute;
-    top: 513px;
     left: 536px;
+    top: 513px;
     
 }
 
