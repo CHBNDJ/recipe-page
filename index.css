@@ -82,6 +82,7 @@ body,html {
     font-family: "Young Serif", serif;
     font-weight: 400;
     color: hsl(332, 51%, 32%);
+    margin: 32px 0 24px 0;
 }
 
 .card--ingredients__list {
