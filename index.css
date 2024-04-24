@@ -91,6 +91,7 @@ body,html {
     font-family: "Outfit", sans-serif;
     font-weight: 400;
     padding-left: 25px;
+    margin-bottom: 0;
 }
 
 .card--ingredients__list li {
