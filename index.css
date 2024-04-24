@@ -134,7 +134,7 @@ ul,ol li::marker {
 .card--instructions__list li {
     padding-left: 20px;
     margin-bottom: 12px;
-    line-height: 100%;
+    line-height: 125%;
 }
 
 .card--nutrition__title {
