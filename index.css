@@ -49,7 +49,7 @@ body,html {
 }
 
 .card--preparation {
-    padding: 28px;
+    padding: 28px 28px 15px 28px;
     background-color: hsl(330, 100%, 98%);
     border-radius: 12px;
     margin: 32px 0;
