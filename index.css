@@ -128,7 +128,7 @@ ul,ol li::marker {
     font-family: "Outfit", sans-serif;
     font-weight: 400;
     padding-left: 25px;
-    margin-top: 18px;
+    margin: 16px 0 0 0;
 }
 
 .card--instructions__list li {
