@@ -109,7 +109,7 @@ ul,ol li::marker {
     background-color: #e6e0d4;
     width: 656px;
     height: 1px;
-    margin: 32px 0;
+    margin: 32px 0 28px 0;
 }
 
 .card--instructions__title {
@@ -127,7 +127,7 @@ ul,ol li::marker {
     font-family: "Outfit", sans-serif;
     font-weight: 400;
     padding-left: 25px;
-    margin-top: 16px;
+    margin-top: 14px;
 }
 
 .card--instructions__list li {
